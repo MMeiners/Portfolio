@@ -10,7 +10,7 @@ Currently, Mark is learning how to use the Python data stack.  His GitHub may ha
 
 Mark has recently earned the MCSA certification: SQL 2016 Database Development.  You can view his certification badges at the following link: https://www.youracclaim.com/users/mark-meiners/badges
 
-### City of Phoenix Data Open Data Examples
+### City of Phoenix Open Data Examples
 Tableau Public links
 
 SQL code
