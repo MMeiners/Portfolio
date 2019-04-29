@@ -8,7 +8,7 @@ Mark's current skillset revolves around doing data analysis work using SQL and T
 
 Currently, Mark is learning how to use the Python data stack.  His GitHub may have samples of Jupyter Notebooks or other WIP outside this portfolio.  While not production ready in using Python for data analysis, Mark feels it will be a powerful tool to add to his current skillset.  
 
-Mark has recently passed Microsoft exams 70-761 Querying Data with Transact-SQL and 70-762 Developing SQL Databases to earn MCSA: SQL 2016 Database Development.  
+Mark has recently passed Microsoft exams 70-761 Querying Data with Transact-SQL and 70-762 Developing SQL Databases to earn the MCSA certification: SQL 2016 Database Development.  
 
 ### City of Phoenix Data Open Data Examples
 Tableau Public links
