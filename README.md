@@ -4,11 +4,13 @@ Here you find examples of work to get a feel for his skills.  Examples may diffe
 
 ### About Mark
 
-Mark's current skillset revolves around doing data analysis work using SQL and Tableau.  Mark has been using Microsoft SQL Server in various roles since 2005 when he first created an OLTP training database with a web front-end.  After this, Mark spent time as an "accidental DBA" for a SharePoint server.  Most recently, Mark was responsible for doing data analysis and reporting where he spent at least 50% of his time responding to ad hoc data requests.  While Mark spent most of his time working with SQL Server, in his previous position the data warehouse was based on IBM's Db2. 
+Mark's current skill-set revolves around doing data analysis work using SQL and Tableau.  Mark has been using Microsoft SQL Server in various roles since 2005 when he first created an OLTP training database with a web front-end.  After this, Mark spent time as an "accidental DBA" for a SharePoint server.  Most recently, Mark was responsible for doing data analysis and reporting where he spent at least 50% of his time responding to ad hoc data requests.  While Mark spent most of his time working with SQL Server, in his previous position the data warehouse was based on IBM's Db2. 
 
-Currently, Mark is learning how to use the Python data stack.  His GitHub may have samples of Jupyter Notebooks or other WIP outside this portfolio.  While not production ready in using Python for data analysis, Mark feels it will be a powerful tool to add to his current skillset.  
+Currently, Mark is learning how to use the Python data stack.  His GitHub may have samples of Jupyter Notebooks or other WIP outside this portfolio.  While not production ready in using Python for data analysis, Mark feels it will be a powerful tool to add to his current skill-set someday.  
 
 Mark has recently earned the MCSA certification: SQL 2016 Database Development.  You can view his certification badges at the following link: https://www.youracclaim.com/users/mark-meiners/badges
+
+![Small SQL Badge](Images/mcsa-sql-2016-database-development-certified-2019-small.png "MCSA SQL 2016 Database Development Badge")
 
 ### City of Phoenix Open Data Examples
 Tableau Public links
