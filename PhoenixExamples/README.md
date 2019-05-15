@@ -1,6 +1,6 @@
 # City of Phoenix Open Data
 
-The City of Phoenix has an Open Data Portal which the public can use to do their own analysis.  I have decided to use a couple of those datasets in my portfolio.  Since I don't have any specific goals or stories in mind, I will start with doing exploratory analysis in Tableau Public 2019.1.  The worksheets are available in this repo has PowerPoint files.  You can also follow the links below to see the live story dashboard in Tableau Public online.
+The City of Phoenix has an Open Data Portal which the public can use to do their own analysis.  I have decided to use a couple of those datasets in my portfolio.  Since I don't have any specific goals or stories in mind, I will start with doing exploratory analysis in Tableau Public 2019.1.  The worksheets are available in this repo as PowerPoint files.  You can also follow the links below to see the live story dashboard in Tableau Public online.
 
 ### Sky Harbor Dataset
 
