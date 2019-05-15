@@ -12,15 +12,11 @@ Mark Meiners has recently earned the MCSA certification: SQL 2016 Database Devel
 
 ![Small SQL Badge](Images/mcsa-sql-2016-database-development-certified-2019-small.png "MCSA SQL 2016 Database Development Badge")
 
-# -- work in progress --
-### City of Phoenix Open Data Examples
-Add Tableau Public links 
+#Examples
+### City of Phoenix Open Data Exploratory Viz
+[Sample Tableau visualizations](PhoenixExamples/README.md) based on data I found on the Phoenix Open Data Portal
 
-Add SQL code
-
-### State of Arizona Examples
-Add CBT database diagram
-
-Add Before/After Statistical Bulletin
- 
-Add SQL code examples
+### Prior Work Examples
+1.  [Before and After](PriorWorkExamples/BeforeAndAfterReports/README.md): Report redesign example with approach explained
+2.  [Database Diagram](PriorWorkExamples/DatabaseDiagrams/README.md): OLTP database design project 
+3.  [SQL Code](PriorWorkExamples/SqlCode/README.md): Data is messy, here's how I solved a missing field problem 
