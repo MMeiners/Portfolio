@@ -6,7 +6,7 @@ In the real world, data isn't perfect and ready for analysis via a simple select
 
 I needed to calculate where a person was at any given point in time.  The problem was that the address table lacked an end date and had a granularity mismatch.  Every time a new record was added to the system an effective date was given but the preceding record was not closed or tagged in any way.  Here's an example.
 
-id | Name | City | Effective Date
+id | Name | City | Effective Year
 ---|------|------|---------------
 1	|Mark	|Mesa	|2000
 2	|Mark	|Mesa	|2002
@@ -24,7 +24,7 @@ select firstName, cityName, effectiveYear,
 from oltpStyleAddress
 order by firstName, effectiveYear
 ```
-Name | City | Effective Date | Cluster Id
+Name | City | Effective Year | Cluster Id
 ------|------|----------------|-----------
 Mark	|Mesa	|2000	|0
 Mark	|Mesa	|2002	|0
