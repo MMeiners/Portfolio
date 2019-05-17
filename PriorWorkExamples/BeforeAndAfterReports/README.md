@@ -6,7 +6,7 @@ Here is the [Statistical Bulletin for January 2012](statisticalBulletinBefore.pd
 
 In journalism, there is a concept known as the inverted pyramid.  It is a metaphor used to describe how information should be prioritized and structured.  The basic idea is to start with the most substantial key information then move on to important details and end with general or background info.  This was my guide to the redesign.
 
-I asked myself who my audience was.  What did my audience need to know?  Was there another place where I can convey details?  Was there information missing?  Eventually, this ended up as a two piece report.  A Tableau report with the most important info and an Excel file with the little line items.  
+I asked myself who my audience was.  What did my audience need to know?  Was there another place where I could convey details?  Was there information missing?  Eventually, this ended up as a two piece report.  A Tableau report with the most important info and an Excel file with the little line items.  
 
 When you look at the report, you'll see how it starts with current trends and ends at regional level detail.  The last page is added by a coworker in a revision.  Some of the program breakouts are not included in the Tableau report and exist only in Excel which I can't share.
 
