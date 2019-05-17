@@ -1,4 +1,4 @@
-# Data Manipulation
+# Missing columns
 
 I've included scripts to create a dummy table with data and the analysis.  All code is written specifically for this portfolio because including the real thing would be too sensitive. 
 
