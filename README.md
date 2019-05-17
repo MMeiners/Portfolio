@@ -12,7 +12,7 @@ Mark Meiners has recently earned the MCSA certification: SQL 2016 Database Devel
 
 ![Small SQL Badge](Images/mcsa-sql-2016-database-development-certified-2019-small.png "MCSA SQL 2016 Database Development Badge")
 
-#Examples
+# Examples
 ### City of Phoenix Open Data Exploratory Viz
 [Sample Tableau visualizations](PhoenixExamples) based on data found on the Phoenix Open Data Portal
 
