@@ -1,4 +1,5 @@
-drop table if exists oltpStyleAddress
+drop table if exists oltpStyleAddress;
+go
 
 create table oltpStyleAddress
 (
@@ -6,7 +7,8 @@ create table oltpStyleAddress
 	firstName varchar(20) not null,
 	cityName varchar(20) not null,
 	effectiveYear smallint not null  
-)
+);
+go
 
 insert into oltpStyleAddress(firstName, cityName, effectiveYear)
 values ('Mark', 'Mesa', 2000), ('Mark', 'Mesa', 2002), ('Bob', 'Phoenix', 2001),
@@ -18,4 +20,5 @@ values ('Mark', 'Mesa', 2000), ('Mark', 'Mesa', 2002), ('Bob', 'Phoenix', 2001),
 		('Mark', 'Phoenix', 2009), ('Mark', 'Phoenix', 2009), ('Mark', 'Mesa', 2012),
 		('Mark', 'Mesa', 2012), ('Mark', 'Mesa', 2012), ('Mark', 'Mesa', 2015),
 		('Mark', 'Mesa', 2016), ('Mark', 'Mesa', 2017), ('Mark', 'Phoenix', 2018),
-		('Mark', 'Phoenix', 2019)
+		('Mark', 'Phoenix', 2019);
+go
