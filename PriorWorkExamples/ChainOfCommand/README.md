@@ -1,4 +1,4 @@
-# SQL Recursion
+# SQL Chain of Command
 
 The problem: Automatically determine if somebody should have access to view another person's training transcript.
 

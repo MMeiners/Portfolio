@@ -17,5 +17,6 @@ Mark Meiners has recently earned the MCSA certification: SQL 2016 Database Devel
 [Sample Tableau visualizations](PhoenixExamples) based on data found on the Phoenix Open Data Portal
 
 ### Prior Work Examples
-1.  [Before and After](PriorWorkExamples/BeforeAndAfterReports): Report redesign example with approach explained
-2.  [Missing Columns](PriorWorkExamples/MissingColumns): Data is messy, here's how a missing field problem was solved
+1.  [Before and After](PriorWorkExamples/BeforeAndAfterReports): Report redesign example with approach explained.
+2.  [Missing Columns](PriorWorkExamples/MissingColumns): Data is messy, here's how a missing field problem was solved by generating a synthetic cluster id.
+3.  [Chain of Command](PriorWorkExamples/ChainOfCommand): Recursion in SQL can help with tree-like data stored in tables.
