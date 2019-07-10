@@ -6,6 +6,8 @@ Here you will find examples to get a feel for his skills.  Examples may differ f
 
 Mark's current skill-set revolves around doing data analysis work using SQL and Tableau.  Mark has been using Microsoft SQL Server in various roles since 2005 when he first created an OLTP training database with a web front-end.  After this, Mark spent time supporting a SharePoint backend responsible for database and server maintenance.  Most recently, Mark was responsible for doing data analysis and reporting where he spent at least 50% of his time responding to ad hoc data requests.  While Mark spent most of his time working with SQL Server, in his previous position the data warehouse he would query was based on IBM's Db2. 
 
+Mark also spent a couple of years working as a gameplay developer for a small indie team.  The elevator pitch for the game was: Arnold's greatest hits, Terminator meets Total Recall.  Components were developed in C# for the Unity 3D game engine.
+
 Currently, Mark Meiners is learning how to use the Python data stack.  His GitHub may have samples of Jupyter Notebooks or other WIP outside this portfolio.  Mark feels it will be a powerful tool to add to his current skill-set in the future.  
 
 Mark Meiners has recently earned the MCSA certification: SQL 2016 Database Development.  You can view his certification badges at the following link: https://www.youracclaim.com/users/mark-meiners/badges
